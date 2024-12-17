@@ -16,8 +16,7 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](basic%20select/Revising%20the%20Select%20Query%20I.sql) |
-
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](basic%20select/Revising%20the%20Select%20Query%20I.sql) 
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](basic%20select/Revising%20the%20Select%20Query%20II.sql) |
 
 
