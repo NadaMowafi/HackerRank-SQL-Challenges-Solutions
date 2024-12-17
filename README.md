@@ -36,3 +36,16 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/higher-than-75-marks/problem) | [SQL](basic%20select/Higher%20Than%2075%20Marks.sql) |
 | 19| [Employee Salaries](https://www.hackerrank.com/challenges/employee-salaries/problem) | [SQL](basic%20select/Employee%20Salaries.sql) |
 | 20| [Employee Names](https://www.hackerrank.com/challenges/employee-names/problem) | [SQL](basic%20select/Employee%20Names.sql) |
+
+### Advanced Select Challenges
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-tree-nodes/problem) | [SQL](advanced%20select/Binary%20Tree%20Nodes.sql) |
+
+| 2 |[New Companies](https://www.hackerrank.com/challenges/new-companies/problem) | [SQL](advanced%20select/New%20Companies.sql) |
+| 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](Advanced%20Select/Occupations.sql) |
+| 4 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [SQL](advanced%20select/The%20PADS.sql) |
+| 5 | [Type of Triangle](https://www.hackerrank.com/challenges/type-of-triangle/problem) | [SQL](advanced%20select/Type%20of%20Triangle.sql) |
+
+
