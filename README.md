@@ -42,7 +42,6 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-tree-nodes/problem) | [SQL](advanced%20select/Binary%20Tree%20Nodes.sql) |
-
 | 2 |[New Companies](https://www.hackerrank.com/challenges/new-companies/problem) | [SQL](advanced%20select/New%20Companies.sql) |
 | 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](Advanced%20Select/Occupations.sql) |
 | 4 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [SQL](advanced%20select/The%20PADS.sql) |
