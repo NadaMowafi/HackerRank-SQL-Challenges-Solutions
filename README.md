@@ -52,37 +52,23 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| No. | Problem Title | Filename |
-| --- | ------------- | -------- |
-| No. | Problem Title                                | Filename                                                                 |
-| --- | -------------------------------------------- | ------------------------------------------------------------------------ |
-| 1   | Average Population                           | [Aggregation/Average Population.sql](path/to/your/Aggregation/Average%20Population.sql) |
-| 2   | Revising Aggregations - The Count Function   | [Aggregation/Revising Aggregations - The Count Function.sql](path/to/your/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql) |
-| 3   | Japan Population                             | [Aggregation/Japan Population.sql](path/to/your/Aggregation/Japan%20Population.sql) |
-| 4   | Population Density Difference                | [Aggregation/Population Density Difference.sql](path/to/your/Aggregation/Population%20Density%20Difference.sql) |
-| 5   | Revising Aggregations - Averages             | [Aggregation/Revising Aggregations - Averages.sql](path/to/your/Aggregation/Revising%20Aggregations%20-%20Averages.sql) |
-| 6   | Revising Aggregations - The Sum Function     | [Aggregation/Revising Aggregations - The Sum Function.sql](path/to/your/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql) |
-| 7   | The Blunder                                  | [Aggregation/The Blunder.sql](path/to/your/Aggregation/The%20Blunder.sql) |
-| 8   | Top Earners                                  | [Aggregation/Top Earners.sql](path/to/your/Aggregation/Top%20Earners.sql) |
-| 9   | Weather Observation Station 13               | [Aggregation/Weather Observation Station 13.sql](path/to/your/Aggregation/Weather%20Observation%20Station%2013.sql) |
-
-
-| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql) | 
-| 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [SQL](Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)                    |
-| 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [SQL](Aggregation/Revising%20Aggregations%20-%20Averages.sql)                       |
-| 4 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [SQL](Aggregation/Average%20Population.sql)                                                                               |
-| 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [SQL](Aggregation/Japan%20Population.sql)                                                                                     |
-| 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](Aggregation/Population%20Density%20Difference.sql)                                            |
-| 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [SQL](Aggregation/The%20Blunder.sql)  
-| 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [SQL](Aggregation/Top%20Earners.sql) |         
-| 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [SQL](Aggregation/Weather%20Observation%20Station%202.sql) |
-| 10| [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2013.sql) |
-| 11| [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2014.sql) |
-| 12| [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2015.sql) |
-| 13| [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2016.sql) |
-| 14| [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2017.sql) |
-| 15| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2018.sql) |
-| 16| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2019.sql) |
-| 17| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2020.sql) |
+| 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-count/problem) | [SQL](aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql) |
+| 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [SQL](aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql) |
+| 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-averages/problem) | [SQL](aggregation/Revising%20Aggregations%20-%20Averages.sql) |
+| 4 |  [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [SQL](aggregation/Average%20Population.sql) |
+                                                                        |
+| 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [SQL](aggregation/Japan%20Population.sql) |
+| 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](aggregation/Population%20Density%20Difference.sql) |
+| 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [SQL](aggregation/The%20Blunder.sql) | 
+| 8 | [Top Earners](https://www.hackerrank.com/challenges/top-earners/problem) | [SQL](aggregation/Top%20Earners.sql) |
+| 9 |[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [SQL](aggregation/Weather%20Observation%20Station%202.sql) |
+| 10 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [SQL](aggregation/Weather%20Observation%20Station%2013.sql) |
+| 11 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [SQL](aggregation/Weather%20Observation%20Station%2014.sql) |
+| 12 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [SQL](aggregation/Weather%20Observation%20Station%2015.sql) |
+| 13 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [SQL](aggregation/Weather%20Observation%20Station%2016.sql) |
+| 14 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [SQL](aggregation/Weather%20Observation%20Station%2017.sql) |
+| 15 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](aggregation/Weather%20Observation%20Station%2018.sql) |
+| 16 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](aggregation/Weather%20Observation%20Station%2019.sql) |
+| 17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [SQL](aggregation/Weather%20Observation%20Station%2020.sql) |
 
 
