@@ -54,14 +54,18 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 |:------:|------------|:---------:|
 | No. | Problem Title | Filename |
 | --- | ------------- | -------- |
-| 1   | Average Population | [Aggregation/Average Population.sql](path/to/your/Aggregation/Average Population.sql) |
-| 2   | Revising Aggregations - The Count Function | [Aggregation/Revising Aggregations - The Count Function.sql](path/to/your/Aggregation/Revising Aggregations - The Count Function.sql) |
-| 3   | Japan Population | [Aggregation/Japan Population.sql](path/to/your/Aggregation/Japan Population.sql) |
-| 4   | Population Density Difference | [Aggregation/Population Density Difference.sql](path/to/your/Aggregation/Population Density Difference.sql) |
-| 5   | Revising Aggregations - Averages | [Aggregation/Revising Aggregations - Averages.sql](path/to/your/Aggregation/Revising Aggregations - Averages.sql) |
-| 6   | Revising Aggregations - The Sum Function | [Aggregation/Revising Aggregations - The Sum Function.sql](path/to/your/Aggregation/Revising Aggregations - The Sum Function.sql) |
-| 7   | The Blunder | [Aggregation/The Blunder.sql](path/to/your/Aggregation/The Blunder.sql) |
-| 8   | Top Earners | [Aggregation/Top Earners.sql](path/to/your/Aggregation/Top Earners.sql) |
+| No. | Problem Title                                | Filename                                                                 |
+| --- | -------------------------------------------- | ------------------------------------------------------------------------ |
+| 1   | Average Population                           | [Aggregation/Average Population.sql](path/to/your/Aggregation/Average%20Population.sql) |
+| 2   | Revising Aggregations - The Count Function   | [Aggregation/Revising Aggregations - The Count Function.sql](path/to/your/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql) |
+| 3   | Japan Population                             | [Aggregation/Japan Population.sql](path/to/your/Aggregation/Japan%20Population.sql) |
+| 4   | Population Density Difference                | [Aggregation/Population Density Difference.sql](path/to/your/Aggregation/Population%20Density%20Difference.sql) |
+| 5   | Revising Aggregations - Averages             | [Aggregation/Revising Aggregations - Averages.sql](path/to/your/Aggregation/Revising%20Aggregations%20-%20Averages.sql) |
+| 6   | Revising Aggregations - The Sum Function     | [Aggregation/Revising Aggregations - The Sum Function.sql](path/to/your/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql) |
+| 7   | The Blunder                                  | [Aggregation/The Blunder.sql](path/to/your/Aggregation/The%20Blunder.sql) |
+| 8   | Top Earners                                  | [Aggregation/Top Earners.sql](path/to/your/Aggregation/Top%20Earners.sql) |
+| 9   | Weather Observation Station 13               | [Aggregation/Weather Observation Station 13.sql](path/to/your/Aggregation/Weather%20Observation%20Station%2013.sql) |
+
 
 | 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [SQL](Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql) | 
 | 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [SQL](Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)                    |
