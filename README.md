@@ -35,5 +35,4 @@ The solutions of all the SQL challenges for all easy, medium and hard challenges
 | 17 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [SQL](basic%20select/Weather%20Observation%20Station%2012.sql) |
 | 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/higher-than-75-marks/problem) | [SQL](basic%20select/Higher%20Than%2075%20Marks.sql) |
 | 19| [Employee Salaries](https://www.hackerrank.com/challenges/employee-salaries/problem) | [SQL](basic%20select/Employee%20Salaries.sql) |
-
 | 20| [Employee Names](https://www.hackerrank.com/challenges/employee-names/problem) | [SQL](basic%20select/Employee%20Names.sql) |
